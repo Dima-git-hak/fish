@@ -8,9 +8,10 @@ url_checker() {
         fi
     fi
 }
+echo -e
 echo -e "\e[40;38;5;82m Пожалуйста, посетите телеграм \e[30;48;5;82m @LegionXlink \e[0m"
 echo -e "\e[30;48;5;82m    Автор \e[40;38;5;82m   Дмитрий \e[0m \n\n"
-echo -e "\e[1;31;42m ### Фишинг URL-адрес  ###\e[0m \n"
+echo -e "\e[255;0;0m ### Фишинг URL-адрес  ###\e[0m \n"
 echo -n "Вставьте фишинг URL здесь (с http или https): "
 read phish
 url_checker $phish
