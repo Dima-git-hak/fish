@@ -15,4 +15,4 @@ bash fish.sh
 ```
 (Проверено на Кали Linux, Termux и Ubuntu)
 
-АВТОР - ДМИТРИЙ, Телеграм @Programmerlinix </a>
+АВТОР - ДМИТРИЙ, Телеграм (@Programmerlinix) </a>
