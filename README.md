@@ -15,4 +15,4 @@ bash fish.sh
 ```
 (Проверено на Кали Linux, Termux и Ubuntu)
 
-АВТОР - ДМИТРИЙ, Переходите к нам в телеграмм канал (https://t.me/LegionXlink) - "переходник" </a>
+АВТОР - ДМИТРИЙ, Телеграм @Programmerlinix </a>
